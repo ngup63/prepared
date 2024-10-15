@@ -6,6 +6,6 @@
     "https://x230p2.6una41u.shop",
     "https://s0huzz.2wrh65j1k.shop",
     "https://58knb7d3.08goza0yr.shop",
-    "https://hzi3vbus.s3r2dhq.shop",
+    "https://hzi3vbus.s3r2dhq.shop"
   ]
 }
